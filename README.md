@@ -4,13 +4,6 @@ This repository contains implementations and experiments for a multi-category te
 
 The project explores various neural network architectures to solve the given classification task.
 
-## Problem Statement
-
-The main goals of this assignment were:
-*   Design and implement neural architectures combining CNN and LSTM (or variants).
-*   Explore the use of self-attention mechanisms and dynamic meta-embedding.
-*   Implement and analyze a Transformer-based text encoding model, considering the effect of the number of encoder blocks and positional embeddings.
-
 ## Approaches Explored
 
 Several models and techniques were implemented and evaluated:
